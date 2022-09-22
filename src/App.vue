@@ -1,6 +1,6 @@
 <template>
   <div class="title">
-    <router-link to="/about">
+    <router-link to="/mqm">
       <div class="item">mqm</div>
     </router-link>
     <router-link to="/">
@@ -8,6 +8,9 @@
     </router-link>
     <router-link to="/drag">
       <div class="item">dianci</div>
+    </router-link>
+    <router-link to="/animation">
+      <div class="item">animation</div>
     </router-link>
   </div>
 
